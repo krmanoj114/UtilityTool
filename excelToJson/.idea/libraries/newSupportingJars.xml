@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="newSupportingJars">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../UtilityTool/newSupportingJars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../UtilityTool/newSupportingJars" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../UtilityTool/newSupportingJars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../UtilityTool/newSupportingJars" recursive="false" type="SOURCES" />
+  </library>
+</component>

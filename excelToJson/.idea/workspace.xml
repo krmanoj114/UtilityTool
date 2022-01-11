@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5839911-2006-492b-9e9d-1da7bf819c4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="ProjectId" id="1ZDYkpqbqgFFG3nDl2FQoLYZiDJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../UtilityTool/newSupportingJars" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ImportingExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sapient.utility.convert.ImportingExcel" />
+      <module name="excelToJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sapient.utility.convert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImportingExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5839911-2006-492b-9e9d-1da7bf819c4c" name="Default Changelist" comment="" />
+      <created>1584375277300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584375277300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1591164858000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591164858000" />
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587270598781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1587270598781" />
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591104547393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1591104547393" />
+    <state width="499" height="438" key="DebuggerActiveHint" timestamp="1591164753165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="499" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1591164753165" />
+    <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1584415875074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584415875074" />
+    <state width="1323" height="49" key="GridCell.Tab.0.bottom" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.0.center" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.0.left" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.0.right" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.1.bottom" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.1.center" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.1.left" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state width="1323" height="49" key="GridCell.Tab.1.right" timestamp="1591164982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="49" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591164982956" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1587270600991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587270600991" />
+    <state x="404" y="105" width="570" height="524" key="StructurePopup" timestamp="1584429533108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="570" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1584429533108" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1591160934798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591160934798" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1591104492930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1591104492930" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591162749754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591162749754" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>994</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>992</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>1015</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sapient/utility/convert/ConvertJson.java</url>
+          <line>672</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
